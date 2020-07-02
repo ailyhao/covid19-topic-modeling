@@ -109,4 +109,4 @@ print('\nCoherence Score: ', coherence_lda)
 
 ## Visualization 
 
-<img src=“img/topic_vis.png”/>
+<img src= img/topic_vis.png />
